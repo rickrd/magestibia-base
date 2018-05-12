@@ -15,7 +15,7 @@ expFromPlayersLevelRange = 75
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "192.168.0.100"
+ip = "magestibia.servegame.com"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
@@ -46,8 +46,8 @@ timeBetweenExActions = 1000
 
 -- Map
 -- NOTE: set mapName WITHOUT .otbm at the end
-mapName = "mapa"
-mapAuthor = "Komic"
+mapName = "map"
+mapAuthor = "r1ckkj"
 
 -- Market
 marketOfferDuration = 30 * 24 * 60 * 60
